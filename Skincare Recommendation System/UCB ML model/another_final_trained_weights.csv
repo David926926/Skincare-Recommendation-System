@@ -1,0 +1,26 @@
+ranking_order,current_price,unit_price,star_rating,log_review_counts
+Initial,0.4,0.3,0.2,0.1
+current_price > unit_price > star_rating > log_review_counts,0.365809755,0.294143028,0.212532576,0.127514641
+current_price > unit_price > log_review_counts > star_rating,0.340566498,0.290486397,0.221384128,0.147562978
+current_price > star_rating > unit_price > log_review_counts,0.319149786,0.286519849,0.224303214,0.170027152
+current_price > star_rating > log_review_counts > unit_price,0.308448494,0.28380895,0.229664111,0.178078446
+current_price > log_review_counts > unit_price > star_rating,0.299487388,0.279863921,0.226163412,0.194485279
+current_price > log_review_counts > star_rating > unit_price,0.294188232,0.279767683,0.220888052,0.205156033
+unit_price > current_price > star_rating > log_review_counts,0.315194986,0.305822017,0.1776807,0.201302297
+unit_price > current_price > log_review_counts > star_rating,0.304942073,0.295464622,0.193220434,0.206372871
+unit_price > star_rating > current_price > log_review_counts,0.293297815,0.291595076,0.207217391,0.207889718
+unit_price > star_rating > log_review_counts > current_price,0.286194,0.28725828,0.209751238,0.216796482
+unit_price > log_review_counts > current_price > star_rating,0.278533326,0.287967899,0.220258636,0.213240138
+unit_price > log_review_counts > star_rating > current_price,0.274953073,0.287823127,0.218942196,0.218281604
+star_rating > current_price > unit_price > log_review_counts,0.270804307,0.286196679,0.228441086,0.214557928
+star_rating > current_price > log_review_counts > unit_price,0.271297623,0.272332945,0.244070446,0.212298986
+star_rating > unit_price > current_price > log_review_counts,0.267023911,0.269702778,0.240007467,0.223265845
+star_rating > unit_price > log_review_counts > current_price,0.26390168,0.269086547,0.238817231,0.228194543
+star_rating > log_review_counts > current_price > unit_price,0.259886452,0.268841453,0.237338459,0.233933636
+star_rating > log_review_counts > unit_price > current_price,0.263871269,0.271027548,0.242878647,0.222222536
+log_review_counts > current_price > unit_price > star_rating,0.264481817,0.268857689,0.231433151,0.235227343
+log_review_counts > current_price > star_rating > unit_price,0.251066054,0.272935118,0.231805944,0.244192884
+log_review_counts > unit_price > current_price > star_rating,0.250234312,0.272199387,0.23100698,0.246559321
+log_review_counts > unit_price > star_rating > current_price,0.250978919,0.273633389,0.231800905,0.243586786
+log_review_counts > star_rating > current_price > unit_price,0.250257701,0.271548446,0.231429069,0.246764784
+log_review_counts > star_rating > unit_price > current_price,0.250478265,0.268247522,0.231008932,0.250265282

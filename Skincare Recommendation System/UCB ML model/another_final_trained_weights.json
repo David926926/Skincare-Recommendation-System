@@ -1,0 +1,170 @@
+[
+  {
+    "ranking_order": "current_price > unit_price > star_rating > log_review_counts",
+    "current_price": 0.365809754834052,
+    "unit_price": 0.2941430281826531,
+    "star_rating": 0.2125325763620943,
+    "log_review_counts": 0.12751464062120066
+  },
+  {
+    "ranking_order": "current_price > unit_price > log_review_counts > star_rating",
+    "current_price": 0.3405664975941607,
+    "unit_price": 0.29048639671617665,
+    "star_rating": 0.22138412771944918,
+    "log_review_counts": 0.14756297797021356
+  },
+  {
+    "ranking_order": "current_price > star_rating > unit_price > log_review_counts",
+    "current_price": 0.3191497855789165,
+    "unit_price": 0.2865198487919172,
+    "star_rating": 0.2243032135020991,
+    "log_review_counts": 0.17002715212706732
+  },
+  {
+    "ranking_order": "current_price > star_rating > log_review_counts > unit_price",
+    "current_price": 0.30844849362742693,
+    "unit_price": 0.28380894961076686,
+    "star_rating": 0.22966411088491734,
+    "log_review_counts": 0.17807844587688887
+  },
+  {
+    "ranking_order": "current_price > log_review_counts > unit_price > star_rating",
+    "current_price": 0.2994873878034335,
+    "unit_price": 0.279863921108694,
+    "star_rating": 0.22616341239958934,
+    "log_review_counts": 0.1944852786882832
+  },
+  {
+    "ranking_order": "current_price > log_review_counts > star_rating > unit_price",
+    "current_price": 0.29418823249193327,
+    "unit_price": 0.2797676826675691,
+    "star_rating": 0.22088805183867746,
+    "log_review_counts": 0.20515603300182028
+  },
+  {
+    "ranking_order": "unit_price > current_price > star_rating > log_review_counts",
+    "current_price": 0.3151949855796454,
+    "unit_price": 0.3058220167356617,
+    "star_rating": 0.17768070029173796,
+    "log_review_counts": 0.20130229739295485
+  },
+  {
+    "ranking_order": "unit_price > current_price > log_review_counts > star_rating",
+    "current_price": 0.30494207295222564,
+    "unit_price": 0.29546462201239765,
+    "star_rating": 0.19322043383629817,
+    "log_review_counts": 0.2063728711990786
+  },
+  {
+    "ranking_order": "unit_price > star_rating > current_price > log_review_counts",
+    "current_price": 0.293297815351872,
+    "unit_price": 0.29159507598357653,
+    "star_rating": 0.20721739061519895,
+    "log_review_counts": 0.2078897180493525
+  },
+  {
+    "ranking_order": "unit_price > star_rating > log_review_counts > current_price",
+    "current_price": 0.2861939997927354,
+    "unit_price": 0.28725828006353765,
+    "star_rating": 0.20975123842564786,
+    "log_review_counts": 0.21679648171807894
+  },
+  {
+    "ranking_order": "unit_price > log_review_counts > current_price > star_rating",
+    "current_price": 0.278533326025853,
+    "unit_price": 0.28796789939662065,
+    "star_rating": 0.2202586362630962,
+    "log_review_counts": 0.2132401383144301
+  },
+  {
+    "ranking_order": "unit_price > log_review_counts > star_rating > current_price",
+    "current_price": 0.2749530734453627,
+    "unit_price": 0.287823126826238,
+    "star_rating": 0.21894219596903164,
+    "log_review_counts": 0.2182816037593677
+  },
+  {
+    "ranking_order": "star_rating > current_price > unit_price > log_review_counts",
+    "current_price": 0.2708043070606567,
+    "unit_price": 0.28619667917509317,
+    "star_rating": 0.22844108613729477,
+    "log_review_counts": 0.2145579276269554
+  },
+  {
+    "ranking_order": "star_rating > current_price > log_review_counts > unit_price",
+    "current_price": 0.2712976226350733,
+    "unit_price": 0.27233294495740107,
+    "star_rating": 0.2440704461391533,
+    "log_review_counts": 0.2122989862683724
+  },
+  {
+    "ranking_order": "star_rating > unit_price > current_price > log_review_counts",
+    "current_price": 0.2670239106210842,
+    "unit_price": 0.2697027779547001,
+    "star_rating": 0.2400074667244855,
+    "log_review_counts": 0.22326584469973018
+  },
+  {
+    "ranking_order": "star_rating > unit_price > log_review_counts > current_price",
+    "current_price": 0.2639016800052488,
+    "unit_price": 0.26908654657138187,
+    "star_rating": 0.2388172308409597,
+    "log_review_counts": 0.22819454258240965
+  },
+  {
+    "ranking_order": "star_rating > log_review_counts > current_price > unit_price",
+    "current_price": 0.25988645183013975,
+    "unit_price": 0.2688414529344703,
+    "star_rating": 0.23733845876144888,
+    "log_review_counts": 0.23393363647394108
+  },
+  {
+    "ranking_order": "star_rating > log_review_counts > unit_price > current_price",
+    "current_price": 0.2638712689801999,
+    "unit_price": 0.27102754756754943,
+    "star_rating": 0.24287864719685934,
+    "log_review_counts": 0.22222253625539132
+  },
+  {
+    "ranking_order": "log_review_counts > current_price > unit_price > star_rating",
+    "current_price": 0.264481816627743,
+    "unit_price": 0.26885768885707567,
+    "star_rating": 0.23143315128444633,
+    "log_review_counts": 0.23522734323073502
+  },
+  {
+    "ranking_order": "log_review_counts > current_price > star_rating > unit_price",
+    "current_price": 0.2510660544399815,
+    "unit_price": 0.272935118003274,
+    "star_rating": 0.23180594401859944,
+    "log_review_counts": 0.24419288353814508
+  },
+  {
+    "ranking_order": "log_review_counts > unit_price > current_price > star_rating",
+    "current_price": 0.2502343118398996,
+    "unit_price": 0.2721993869947541,
+    "star_rating": 0.23100697970541972,
+    "log_review_counts": 0.2465593214599265
+  },
+  {
+    "ranking_order": "log_review_counts > unit_price > star_rating > current_price",
+    "current_price": 0.2509789189266543,
+    "unit_price": 0.27363338933638676,
+    "star_rating": 0.23180090524042146,
+    "log_review_counts": 0.2435867864965375
+  },
+  {
+    "ranking_order": "log_review_counts > star_rating > current_price > unit_price",
+    "current_price": 0.25025770124791746,
+    "unit_price": 0.27154844579539594,
+    "star_rating": 0.23142906855420253,
+    "log_review_counts": 0.24676478440248414
+  },
+  {
+    "ranking_order": "log_review_counts > star_rating > unit_price > current_price",
+    "current_price": 0.2504782652509854,
+    "unit_price": 0.2682475216409035,
+    "star_rating": 0.23100893159532146,
+    "log_review_counts": 0.2502652815127897
+  }
+]
